@@ -18,8 +18,8 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://www.linkedin.com/in/sharath-gouli-3a4b68275">
-    🔗 LinkedIn
-  </a>
+  🔗 LinkedIn
+ </a>
 </p>
 
 ---
